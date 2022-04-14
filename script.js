@@ -1,11 +1,3 @@
-//1. Write a function that reverses a number.
-// function reverseString(str) {
-//   var newString = "";
-//   for (var i = str.length - 1; i >= 0; i--) {
-//       newString += str[i];
-//   }
-//   return newString;
-// };
 //reverse a number
 const reverseNumber = (n) => 
   Array.from(n.toString()).reverse().join('');

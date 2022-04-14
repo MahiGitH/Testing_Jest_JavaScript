@@ -1,5 +1,3 @@
-//const {generateText} = require ('../myScript');
-//const { TestWatcher } = require('jest');
 
 const {reverseNumber,alphabet_order, isPrime, codeA,CodeB} = require("../script");
 
